@@ -14,4 +14,49 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  */
-[Name = (Atmosphere-Enhance-Module)]  fn vec(T, N)    [opperator(×) = multiplication operator];  [opperator(÷) = division];  [opperator(+) = addition];  [opperator(−) = minus sign];  [opperator(-) = hyphen minus];  [opperator(∞) = infinity];  [opperator(⧧) = thermodynamic];  [opperator(⧡ = increases as];  [opperator(⧴) = rule delayed];  [opperator(∜) = fourth root];  [(ℏ) = planck constant over two pi];  [(𝜸) = mathematical gamma];  [opperator(∧) = logical and];  [opperator(≎) = geometrically equivalent to];  [opperator(∂) = partial differential];  [(𐄹) = amount of weight];  [opperator(# = special character];  [opperator(⋕) = equal and parallel to];  [(𝝅) = full pi];  [opperator(±) = plus and minus sign];  [(%) = percent sign];  [(_R%) = find radius match];  [opperator(√) = square root];  [(㎣) = squared m cubed];  [opperator(<) ≣ less than];  [opperator(>) = greater than];  [(∃) = there exists];  [opperator(⥹) = subset above rightwards arrow];  [opperator(⥻) = superset above leftwards arrow];  [(∶) = ratio];    {if true match for [Task(Convert(Landscape) = (∜ ℏ ÷ 𝜸 + ∧ ≎ :∂: %)]; if true match in return else continue; impl true match for [Task(Convert(Landscape) = (∜ ℏ ÷ 𝜸 + ∧ ≎ ∶∂∶ %)] if true match in return else continue; impl true match for [Task(Effects in Atmosphere) = (⧴ ⧡ × ⧧ ÷ %) ⊀∞]; if true match in return else continue; impl true match for [Task(Atmosphere Visual Effects = (⧴ ⧡ ⧧ ÷ % × ⊀ ∞)]; if true match in return else continue; impl true match for [Task(Atmosphere Visual Effects = (ℏ ⧴ ⧡ × ∜ ) ÷ (⧧% × 𝜸 ÷ ⦡ × 𝝅 (⊀∞)]; if true match in return else continue; impl true match for [Task(Atmosphere Visual Effects = (⧴ ⧡ ℏ × ∜ ) ÷ (⧧% × 𝜸 ÷ ⦡ × 𝝅 ⊀ ∞)]; if true in return else break
+Name = "Atmosphere-Enhance-Module.rs";
+
+[opperator(×) = multiplication operator];
+[opperator(÷) = division]; 
+[opperator(+) = addition];
+[opperator(−) = minus sign];
+[opperator(-) = hyphen minus];
+[opperator(∞) = infinity];
+[opperator(⧧) = thermodynamic];
+[opperator(⧡) = increases as];
+    [opperator(⧴) = rule delayed];
+    [opperator(∜) = fourth root];
+    [(ℏ) = planck constant over two pi];
+    [(𝜸) = mathematical gamma];
+    [opperator(∧) = logical and]
+     [opperator(≎) = geometrically equivalent to];
+     [opperator(∂) = partial differential];
+     [(𐄹) = amount of weight];
+     [opperator(#) = special character];
+        [opperator(⋕) = equal and parallel to];
+        [(𝝅) = full pi];
+        [opperator(±) = plus and minus sign];
+        [(%) = percent sign];
+        [(_R%) = find radius match];
+        [opperator(√) = square root];
+        [(㎣) = squared m cubed];
+        [opperator(<) ≣ less than];
+        [opperator(>) = greater than];
+        [(∃) = there exists];
+        [opperator(⥹) = subset above rightwards arrow];
+        [opperator(⥻) = superset above leftwards arrow];
+        [(∶) = ratio];
+fn arc(T, N); else fn vec(T, N) {
+if true match for Task(Convert(Landscape) = (∜ ℏ ÷ 𝜸 + ∧ ≎ :∂: %));
+if true match in return;
+else continue for impl true match Task(Convert(Landscape) = (∜ ℏ ÷ 𝜸 + ∧ ≎ ∶∂∶ %));
+if true match in return;
+else continue for impl true match Task(Effects in Atmosphere) = (⧴ ⧡ × ⧧ ÷ %) ⊀∞;
+if true match in return;
+else continue for impl true match Task(Atmosphere Visual Effects = (⧴ ⧡ ⧧ ÷ % × ⊀ ∞));
+if true match in return;
+else continue for impl true match Task(Atmosphere Visual Effects = (ℏ ⧴ ⧡ × ∜ ) ÷ (⧧% × 𝜸 ÷ ⦡ × 𝝅 (⊀∞)));
+if true match in return;
+else continue for impl true match Task(Atmosphere Visual Effects = (⧴ ⧡ ℏ × ∜ ) ÷ (⧧% × 𝜸 ÷ ⦡ × 𝝅 ⊀ ∞));
+if true in return; else break;
+}

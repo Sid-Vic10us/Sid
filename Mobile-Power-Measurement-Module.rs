@@ -14,5 +14,17 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  */
+ Name = "Mobile-Power-Measurement-Module.rs";
 
-[Name = (Mobile-Power-Measurement-Module)]  fn Arc(T, N)   let impl trait match for {[(Instruments(Electricity(Volts)] × [(Instruments(Electricity(Amps)] = [(Electricity(Watts)]} if while true let match in return if else let continue; let impl trait match for mod {[(Instruments(Electricity(Watts)] ÷ [Math(Instruments(Electricity(Amps)] = [(Electricity(Volts)]} if while true let match in return if else let continue; if else break 
+    fn arc(T, N); else fn vec(T, N) {
+if while for Electricity mod{
+            while:(Volts×Ampere==Watts);
+            else while:(Watts ÷ Amperes)==[Volts];
+            else While:(Watts ÷ Volts)==[Ampere];
+        } if while true let impl match in return;
+else continue while for Electricity mod{
+            (Volts)×(Amps)=(Watts);
+            (Watts)÷(Amperes)=(Volts);
+            (Watts)÷(Volts)=(Amperes);
+        } if while true let impl match in return; else let impl break;
+    }

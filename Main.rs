@@ -14,5 +14,18 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  */
+Name = "Main.rs";
+
+fn arc(T, N); else fn vec(T, N) {
+    let impl trait match for mod Char(file_name_ref(Case-Insensitivity.rs))
+    if while true let match in return; else if let continue; let impl trait match for mod{
+        lexicon(file_name_ref(Case-Sensitivity-Required.rs));
+        if while true let match in return;
+        else if let continue; let impl trait match for mod{
+            Char(Sensitivity(file_name_ref(Case-Sensitivity-Required.rs)));
+            if while true let match in return;  else if let continue; let impl trait match for mod{
+                Num(Complex(file_name_ref(Main-One.rs)));
+            }}}
+                if while true let match in return; else let impl break;
+        }
  
-[Name = (Main)]  fn Arc(T)    let impl trait match for mod {[(Char(Insensitivity(file_name_ref(Sid/Source-Code/Case-Insensitivity.rs)]} if while true let match in return if else let continue;    let impl trait match for mod {[(lexicon(file_name_ref(Sid/Source-Code/Case-Sensitivity-Required.rs)]} if while true let match in return if else let continue;    let impl trait match for mod {[(Char(Sensitivity(file_name_ref(Sid/Source-Code/Case-Sensitivity-Required.rs)]} if while true let match in return if else let continue;    let impl trait match for mod {[(Num(Complex(file_name_ref(Sid/Source-Code/Main-One.rs)]} if while true let match in return;    if else let break
