@@ -1,10 +1,10 @@
 
 [Package Module] = "Sid"
 
-[Version] = "0.1.0"
+[Version] = "1.0.0"
 
-[Edition] = "2021 - 2022"
+[Edition] = "2023"
 
-[Optimum Architecture] = "aarch64-apple-darwin"
+[Optimum Architecture] = "64-bit"
 
-[Dependencies] = "Rosetta 2 for runtime instead"
+[Dependencies] = "Compiler for runtime", or "Interperter for Assembly Code", or "Whatever your dependent on..."
