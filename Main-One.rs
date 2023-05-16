@@ -16,17 +16,21 @@
  */
 Name = "Main-One.rs";
 
-fn arc(T, N); else fn vec(T, N) {
-    let impl trait match for mod (file_name_ref(Atmosphere-Enhance-Module("Atmosphere-Enhance-Module.rs")));
+fn vec(T, N); else fn arc(T, N) {
+    let impl trait match for mod file(file_name_ref("Atmosphere-Enhance-Module.rs"));
     if while true let match in return;
+
     else if let continue impl trait match for mod{
-        (Task(Num(file_name_ref(Mobile-Power-Measurement-Module("Mobile-Power-Measurement-Module.rs")))));
+        file(file_name_ref("Mobile-Power-Measurement-Module.rs"));
     if while true let match in return;
+
     else if let continue impl trait match for mod{
-        (Task(Num(file_name_ref(Math-Module("Math-Module.rs")))));
+        file(file_name_ref("Math-Module.rs"));
     if while true let match in return;
+
     else if let continue impl trait match for mod{
-        (file_name_ref(Main("Main.rs")));
-    if while true let match in return; else let break;
+        file(file_name_ref("Main.rs"));
+    if while true let match in return;
+    else let impl break;
     }}}}
     

@@ -16,16 +16,15 @@
  */
 Name = "Main.rs";
 
-fn arc(T, N); else fn vec(T, N) {
-    let impl trait match for mod Char(file_name_ref(Case-Insensitivity.rs))
-    if while true let match in return; else if let continue; let impl trait match for mod{
-        lexicon(file_name_ref(Case-Sensitivity-Required.rs));
+fn vec(T, N); else fn arc(T, N) {
+    let impl trait match for mod {
+        file_name_ref(Case-Insensitivity.rs);
+    } if while true let match in return; else if let continue for let impl trait match for mod{
+        file_name_ref(Case-Sensitivity-Required.rs);
         if while true let match in return;
-        else if let continue; let impl trait match for mod{
-            Char(Sensitivity(file_name_ref(Case-Sensitivity-Required.rs)));
-            if while true let match in return;  else if let continue; let impl trait match for mod{
-                Num(Complex(file_name_ref(Main-One.rs)));
-            }}}
-                if while true let match in return; else let impl break;
+    }
+            else if let continue; let impl trait match for mod{
+               file_name_ref(Main-One.rs);
+            } if while true let match in return; else let impl break;
         }
- 
+        

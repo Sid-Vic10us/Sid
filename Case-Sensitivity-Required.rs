@@ -14,17 +14,17 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  */
- if while true for[
-    (char(complex(task(match(operator(match case for self("Case-Sensitivity-Required.rs")))))))];
- do  for operator symbols match[
-    (operator( "≣" = Strictly Equivalent To)), (operator(match( "≍" = Equivalent To))), (task(operator( "≇" = Neither Approximately Nor Actually Equal To)))
-    ];
-    
-    fn arc(T, N); else fn vec(T, N) {
-      match∶(struct∷Struct∷STRUCT);
-      impl match trait for trait while:(ref match for ref);
-      else while match(ref for trait);
-      do impl while for{
+if  for Num do{
+  compliance(complex(Num(trait(match(operator("≣" = Strictly Equivalent To;"≍" = Equivalent To; "≇" = Neither Approximately Nor Actually Equal To))))));
+ }
+ else if while for char do{
+  compliance(char(complex(task(match(operator(case("Case-Sensitivity-Required.
+rs")))))));
+}; continue for fn vec(T, N) {
+      match∶(struct∷Struct);
+      impl match(trait for trait);
+      continue for match if while:(ref match for ref); do:(trait match trait);
+      while for impl{
         [false match ≣ (A ≇ a)];
         [false match ≣ (B ≇ b)];
         [false match ≣ (C ≇ c)];
